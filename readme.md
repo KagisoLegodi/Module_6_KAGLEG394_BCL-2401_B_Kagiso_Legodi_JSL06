@@ -29,4 +29,3 @@
 ## Notes
 - This project serves as a practical exercise in front-end development and JavaScript programming.
 - The codebase can be further improved and expanded with additional features such as removing items from the order, customizing item quantities, and integrating with a backend server for persistence.
-- Feedback and contributions are welcome!
